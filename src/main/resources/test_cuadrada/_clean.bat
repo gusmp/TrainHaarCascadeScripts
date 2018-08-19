@@ -1,0 +1,1 @@
+del *deteccion*.jpg
